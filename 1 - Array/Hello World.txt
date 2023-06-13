@@ -1,3 +1,0 @@
-#include<World>
-
-Hello World
